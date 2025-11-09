@@ -13,6 +13,11 @@ body{
     height: 100vw;
     width: 100%;
 }
+#introcont{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
 #stripgroup1{
     height: 100%;
     width: 100%;
@@ -24,9 +29,15 @@ body{
     width: 100%;
     border: 2px solid red;
 }
+#stripgroup3{
+    height: 100%;
+    width: 100%;
+    border: 2px solid white;
+}
 .strip{
     margin: 0 50px 0 0;
     height: 100%;
     width: 7px;
     background: red;
+
 }
