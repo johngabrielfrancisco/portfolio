@@ -43,6 +43,13 @@ body{
     
 }
 
+.strip2{
+    margin: 0 50px 0 0;
+    height: 100%;
+    width: 7px;
+    background: red;
+    
+}
 
 
 
